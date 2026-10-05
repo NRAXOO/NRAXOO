@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=NRAXOO&label=VISITAS&color=55FF55&style=flat-square&labelColor=0d1117" alt="Visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=NRAXOO&label=VISITAS&color=55FF55&style=flat-square" alt="Visitas al perfil">
 
 <br><br>
 
