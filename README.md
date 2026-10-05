@@ -10,7 +10,7 @@
 
 <a href="https://github.com/NRAXOO"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub"></a>
 &nbsp;
-<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" alt="Discord: nrax00">
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" alt="Discord: 497971706732871683">
 &nbsp;
 <a href="mailto:jaimemarquin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email"></a>
 
