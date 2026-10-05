@@ -640,10 +640,6 @@ MONITORING
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRAXOO&layout=compact&hide_progress=true&hide_border=false&bg_color=0d1117&border_color=1f6f3a&title_color=55FF55&text_color=c9d1d9&langs_count=8" alt="Lenguajes más utilizados">
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NRAXOO&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=12&margin-h=12" alt="Trophies de GitHub">
-
 </div>
 
 <br>
