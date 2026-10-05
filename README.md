@@ -47,10 +47,10 @@
 <br>
 
 ```console
-dev@minecraft:~$ whoami
+dev@nra:~$ whoami
 Nra
 
-dev@minecraft:~$ cat focus.txt
+dev@nra:~$ cat focus.txt
 especialidad  : Minecraft (plugins, mods y clientes personalizados)
 complemento   : Web, Full Stack, Backend, Mobile, bases de datos, infraestructura
 enfoque       : arquitectura limpia, rendimiento y sistemas mantenibles
@@ -69,7 +69,7 @@ Fuera de Minecraft trabajo en desarrollo Web y Full Stack, Backend, aplicaciones
 </div>
 
 ```text
-[>] Aprendiendo                 TU_TEMA_DE_APRENDIZAJE
+[>] Aprendiendo                 Nuevas arquitecturas y frameworks web
 [>] Abierto a colaborar en      proyectos open source de Minecraft y herramientas para desarrolladores
 [>] Puedes preguntarme sobre    arquitectura de plugins, redes con Velocity, Redis, desarrollo Full Stack
 [>] Dato curioso                Me sé 345 dígitos de pi
